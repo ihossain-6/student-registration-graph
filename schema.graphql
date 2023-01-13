@@ -1,0 +1,7 @@
+type StudentAdded @entity {
+  id: ID!
+  sId: BigInt! # uint256
+  name: String! # string
+  email: String! # string
+  imgHash: String! # string
+}
