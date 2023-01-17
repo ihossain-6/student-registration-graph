@@ -6,9 +6,9 @@ dataSources:
     name: StudentRegistration
     network: goerli
     source:
-      address: "0x08Ac3cB8dd071Fa037C495d84edaeb797F86E20d"
+      address: "0xaf83D62C7Ba5Ebe3bC47Cdce4EC9f3e79D045156"
       abi: StudentRegistration
-      startBlock:  8303633
+      startBlock: 8303633
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
